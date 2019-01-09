@@ -199,7 +199,6 @@ class BasicLayout extends React.PureComponent {
               {children}
             </Authorized>
           </Content>
-          <Footer />
         </Layout>
       </Layout>
     );
